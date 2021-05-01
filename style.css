@@ -1,4 +1,62 @@
 @charset 'UTF-8';
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
 body{
-    font: normal 15pt Arial;
+    background-color: #212B36;
+    font-family: 'Asap', sans-serif;
+    color: #48CFEB;
+} 
+#imagem{
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 60px;
 }
+#navbar{
+    margin-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 60px;
+}
+nav ul {
+    padding:0px;
+    list-style:none;
+}
+nav ul li { 
+    display: inline;
+}
+
+nav ul li a {
+    padding: 2px 10px;
+    display: inline-block;
+    /* background-color:#EDEDED; */
+    color: #95C3F5;
+    text-decoration: none;
+    /* border-bottom:3px solid #EDEDED;*/
+} 
+nav ul li a:hover {
+    /* background-color:#D6D6D6; */
+    color: #ffffff;
+    border-bottom:3px solid #485D75;
+}
+
+/* #corpo{
+    background-color: white;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width:96%;
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 10px 10px 10px 10px #A7DFF5;
+} */
+/* header{
+    text-align: center;
+}
+
+section{
+    color: #498AEB;
+}
+footer{
+    text-align: center;
+} */
