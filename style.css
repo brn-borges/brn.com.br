@@ -50,34 +50,32 @@ nav ul li a:hover {
 }
 
 main{
-    /* background-image: url('imagens/home.jpg'); */
-    background-size: cover;
-    filter: brightness(95%);
     display: block;
-    height: 190px;
-    width: 60%;
-    margin-top: 10px;
+    filter: brightness(95%);
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    height: 150px;
+    width: 60%;
 }
 #cabHome{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     position: absolute;
-    color:#fff;
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#fff;
+    line-height: 40px;
     top: 0px;
-    left: 25%;
-    right: 25%;
+    left: 10%;
+    right: 10%;
     width: auto;
-    line-height: 30px;
 }
 section{
-    /* color: #95C3F5; */
     text-align: justify;
     left: auto;
     right: auto;
 }
 div#imageHome{
+    margin-top: 60px;
     text-align: center;
 }
 footer{
