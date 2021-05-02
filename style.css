@@ -42,21 +42,21 @@ nav ul li a:hover {
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    width:98%;
+    width:96%;
     background-color: #485D752f;
     margin-top: 10px;
     border-radius: 2px;
     padding: 10px;
 }
 
-.imgMarketing{
+main{
     /* background-image: url('imagens/home.jpg'); */
     background-size: cover;
     filter: brightness(95%);
     display: block;
-    height: 250px;
+    height: 190px;
     width: 60%;
-    margin-top: 30px;
+    margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -65,12 +65,11 @@ nav ul li a:hover {
     position: absolute;
     color:#fff;
     text-align: center;
-    top: 50px;
+    top: 0px;
     left: 25%;
+    right: 25%;
     width: auto;
     line-height: 30px;
-    height: 110px;
-   
 }
 section{
     /* color: #95C3F5; */
@@ -78,7 +77,11 @@ section{
     left: auto;
     right: auto;
 }
+div#imageHome{
+    text-align: center;
+}
 footer{
-    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
 }
