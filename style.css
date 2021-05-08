@@ -55,7 +55,7 @@ main{
     margin-left: auto;
     margin-right: auto;
     height: 120px;
-    width: 60%;
+    width: 80%;
 }
 #cabHome{
     position: absolute;
@@ -80,4 +80,14 @@ footer{
     margin-top: 20px;
     margin-bottom: 20px;
     text-align: center;
+}
+#centroProjeto{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+div#imageProjeto{
+    text-align: center;
+}
+#justificadoProjeto{
+    text-align: justify;
 }
