@@ -82,7 +82,16 @@ footer{
     text-align: center;
 }
 #centroProjeto{
+    position: absolute;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:#fff;
+    top: 0px;
+    left: 0%;
+    right: 0%;
+    width: auto;
+}
+#center{
     text-align: center;
 }
 div#imageProjeto{
