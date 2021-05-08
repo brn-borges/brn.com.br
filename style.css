@@ -89,6 +89,7 @@ footer{
     top: 0px;
     left: 0%;
     right: 0%;
+    bottom: 60px;
     width: auto;
 }
 #center{
@@ -96,7 +97,8 @@ footer{
 }
 div#imageProjeto{
     display: block;
-    margin-top: 40px;
+    margin-top: 50px;
+    margin-bottom: 20px;
     text-align: center;
 }
 #justificadoProjeto{
