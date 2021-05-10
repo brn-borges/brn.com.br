@@ -103,9 +103,13 @@ div#imageProjeto{
 #justificadoProjeto{
     text-align: justify;
 }
-#siteProjeto a{
+#siteProjeto ul{
+    list-style: none;
+}
+#siteProjeto li a{
     color: #ffffff;
     text-decoration: none;
+    list-style: none;
 }
 #siteProjeto a:visited{
     color: #95C3F5;
