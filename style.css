@@ -89,19 +89,18 @@ footer{
     top: 0px;
     left: 0%;
     right: 0%;
-    bottom: 60px;
+    bottom: 50px;
     width: auto;
 }
 #center{
     text-align: center;
 }
 div#imageProjeto{
-    margin-top: 60px;
+    margin-top: 50px;
     margin-bottom: 20px;
     text-align: center;
 }
-#justificadoProjeto{
-    text-align: justify;
+#fonte{
     font-family: 'Asap', sans-serif;
 }
 #siteProjeto p{
