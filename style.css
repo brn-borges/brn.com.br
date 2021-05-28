@@ -120,3 +120,8 @@ div#imageProjeto{
 #siteProjeto a:hover{
     color: rgb(146, 162, 180);
 }
+div#imageSobre{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
